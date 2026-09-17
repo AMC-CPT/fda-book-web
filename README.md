@@ -1,3 +1,6 @@
+> **이 자료실은 2026-09-17에 <https://github.com/AMC-CPT/CDD> 로 옮겼습니다.** 책의 QR과 링크는 새 주소를
+> 가리키며, 이곳은 더 이상 갱신하지 않습니다.
+
 # 『신약임상개발 — FDA 허가제도의 필수 지도』 웹 자료실
 
 단행본 **『신약임상개발 — FDA 허가제도의 필수 지도』** (*Essentials of Clinical Drug Development: Regulatory Perspectives*)의 온라인 부록입니다. 책의 각 장 끝 "더 보기" 박스(QR)가 가리키는 곳이 이 저장소입니다.
